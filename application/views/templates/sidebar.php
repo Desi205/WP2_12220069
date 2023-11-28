@@ -46,9 +46,17 @@
             <i class="fas fa-users"></i>
             <span>Data Anggota</span></a>
     </li>
+ <!-- Nav Item - Dashboard -->
+ <li class="nav-item">
+      <style media="screen">
 
+      </style>
+        <a class="nav-link pb-0" href="<?= base_url('buku'); ?>">
+        <i class="fas fa-window-restore"></i>
+            <span>laporan</span></a>
 
 </li>
+
 
 
 
